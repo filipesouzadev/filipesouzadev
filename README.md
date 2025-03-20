@@ -1,15 +1,7 @@
-### Hi there 👋
-
-<!--
-**filipesouzadev/filipesouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ME CONTRATA
-- 🌱 I’m currently learning Javascript, Ruby, Estrutura de Dados, Lógica de Programação.
+- 🔭 I’m currently working on @hacklab/
+- 🌱 I’m currently learning Javascript, PHP, Estrutura de Dados, Lógica de Programação.
 - 🤔 I’m looking for help with Javascript e Lógica de Programação.
-- 💬 Ask me about ...
+- 💬 Ask me about CSS and Wordpress :)
 - 📫 How to reach me: filipe.bsouza14@gmail.com
 - 😄 Pronouns: Ele/He
-- ⚡ Fun fact: Sim, eu canto mal.
--->
+- ⚡ Fun fact: Migrei de carreira aos 29 anos.
